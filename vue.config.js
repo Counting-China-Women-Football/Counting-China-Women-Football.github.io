@@ -1,7 +1,7 @@
 
 const path = require('path')
 module.exports = {
-  publicPath: '/Chinese-Women-Football-Team/',
+  publicPath: '/Counting-China-Women-Football.github.io/',
   outputDir: 'dist',
   transpileDependencies: true,
   devServer: {
