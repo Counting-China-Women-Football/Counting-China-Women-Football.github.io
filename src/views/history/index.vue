@@ -3,7 +3,7 @@
     <div class="title">
       <el-image :src="football"></el-image>
       <h2>
-        <span>回溯历史</span>——四十年风雨，如何遇见彩虹
+        <span>回溯历史123</span>——四十年风雨，如何遇见彩虹
       </h2>
     </div>
     <div>
